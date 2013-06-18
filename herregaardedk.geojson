@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+  "copyright": "The geodata included in this document is from Danish Geodata Agency www.gst.dk - The geodata comes from SNSOR ",
                                                                                 
 "features": [
 { "type": "Feature", "id": 0, "properties": { "SNSOR_ID": 40087.0, "NAVN": "Mindstrup" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.423357713387066, 55.831324303894448, 92.65 ], [ 9.423348550462533, 55.831215613501669, 92.86 ], [ 9.423189748966161, 55.831219843778236, 92.86 ], [ 9.423198911448948, 55.831328534183477, 92.86 ], [ 9.423357713387066, 55.831324303894448, 92.65 ] ] ] } }
